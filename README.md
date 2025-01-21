@@ -1,1 +1,1 @@
-# Video-Streaming-Platform-YouTube-Clone-
+# Video Streaming Platform (YouTube Clone)
